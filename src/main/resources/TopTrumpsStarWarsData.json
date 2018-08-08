@@ -1,0 +1,272 @@
+[
+  {
+    "Name": "Kit Fisto",
+    "Height": 1.96,
+    "Brains": 13,
+    "Dark_Side": 4,
+    "Jedi_Powers": 81,
+    "Battle_Skills": 44,
+    "Force_Factor": 2
+  },
+  {
+    "Name": "Aayla Secura",
+    "Height": 1.72,
+    "Brains": 14,
+    "Dark_Side": 3,
+    "Jedi_Powers": 67,
+    "Battle_Skills": 35,
+    "Force_Factor": 2
+  },
+  {
+    "Name": "Lama Su",
+    "Height": 2.29,
+    "Brains": 13,
+    "Dark_Side": 5,
+    "Jedi_Powers": 1,
+    "Battle_Skills": 12,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "San Hill",
+    "Height": 1.9,
+    "Brains": 8,
+    "Dark_Side": 16,
+    "Jedi_Powers": 1,
+    "Battle_Skills": 12,
+    "Force_Factor": 2
+  },
+  {
+    "Name": "Senator Amidala",
+    "Height": 1.65,
+    "Brains": 17,
+    "Dark_Side": 2,
+    "Jedi_Powers": 30,
+    "Battle_Skills": 40,
+    "Force_Factor": 3
+  },
+  {
+    "Name": "Mace Windu",
+    "Height": 1.88,
+    "Brains": 18,
+    "Dark_Side": 2,
+    "Jedi_Powers": 95,
+    "Battle_Skills": 55,
+    "Force_Factor": 3
+  },
+  {
+    "Name": "Obi-Wan Kenobi",
+    "Height": 1.79,
+    "Brains": 17,
+    "Dark_Side": 1,
+    "Jedi_Powers": 70,
+    "Battle_Skills": 40,
+    "Force_Factor": 6
+  },
+  {
+    "Name": "Anakin Skywalker",
+    "Height": 1.85,
+    "Brains": 16,
+    "Dark_Side": 18,
+    "Jedi_Powers": 75,
+    "Battle_Skills": 55,
+    "Force_Factor": 4
+  },
+  {
+    "Name": "Tarrfful",
+    "Height": 2.34,
+    "Brains": 8,
+    "Dark_Side": 6,
+    "Jedi_Powers": 10,
+    "Battle_Skills": 52,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "Poggle The Lesser",
+    "Height": 1.83,
+    "Brains": 8,
+    "Dark_Side": 14,
+    "Jedi_Powers": 1,
+    "Battle_Skills": 9,
+    "Force_Factor": 2
+  },
+  {
+    "Name": "Yoda",
+    "Height": 0.66,
+    "Brains": 20,
+    "Dark_Side": 0,
+    "Jedi_Powers": 99,
+    "Battle_Skills": 50,
+    "Force_Factor": 5
+  },
+  {
+    "Name": "Chancellor Palpatine",
+    "Height": 1.78,
+    "Brains": 18,
+    "Dark_Side": 22,
+    "Jedi_Powers": 80,
+    "Battle_Skills": 25,
+    "Force_Factor": 5
+  },
+  {
+    "Name": "Ki-Adi-Mundi",
+    "Height": 1.98,
+    "Brains": 17,
+    "Dark_Side": 3,
+    "Jedi_Powers": 85,
+    "Battle_Skills": 46,
+    "Force_Factor": 3
+  },
+  {
+    "Name": "Count Dooku",
+    "Height": 1.93,
+    "Brains": 18,
+    "Dark_Side": 21,
+    "Jedi_Powers": 70,
+    "Battle_Skills": 55,
+    "Force_Factor": 2
+  },
+  {
+    "Name": "Wat Tambor",
+    "Height": 1.93,
+    "Brains": 9,
+    "Dark_Side": 17,
+    "Jedi_Powers": 1,
+    "Battle_Skills": 20,
+    "Force_Factor": 2
+  },
+  {
+    "Name": "Luminara Unduli",
+    "Height": 1.7,
+    "Brains": 17,
+    "Dark_Side": 3,
+    "Jedi_Powers": 68,
+    "Battle_Skills": 38,
+    "Force_Factor": 2
+  },
+  {
+    "Name": "Watto",
+    "Height": 1.37,
+    "Brains": 15,
+    "Dark_Side": 15,
+    "Jedi_Powers": 2,
+    "Battle_Skills": 8,
+    "Force_Factor": 2
+  },
+  {
+    "Name": "Commander Cody",
+    "Height": 1.83,
+    "Brains": 12,
+    "Dark_Side": 20,
+    "Jedi_Powers": 2,
+    "Battle_Skills": 39,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "Mas Amedda",
+    "Height": 1.96,
+    "Brains": 10,
+    "Dark_Side": 9,
+    "Jedi_Powers": 1,
+    "Battle_Skills": 14,
+    "Force_Factor": 3
+  },
+  {
+    "Name": "Tion Medon",
+    "Height": 2.08,
+    "Brains": 16,
+    "Dark_Side": 5,
+    "Jedi_Powers": 2,
+    "Battle_Skills": 18,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "Grievous Bodyguard",
+    "Height": 1.95,
+    "Brains": 8,
+    "Dark_Side": 19,
+    "Jedi_Powers": 12,
+    "Battle_Skills": 42,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "Qui-Gon Jinn",
+    "Height": 1.93,
+    "Brains": 19,
+    "Dark_Side": 2,
+    "Jedi_Powers": 65,
+    "Battle_Skills": 41,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "General Grievous",
+    "Height": 2.16,
+    "Brains": 17,
+    "Dark_Side": 20,
+    "Jedi_Powers": 50,
+    "Battle_Skills": 60,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "Jango Fett",
+    "Height": 1.93,
+    "Brains": 11,
+    "Dark_Side": 20,
+    "Jedi_Powers": 17,
+    "Battle_Skills": 49,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "Jar Jar Binks",
+    "Height": 1.96,
+    "Brains": 2,
+    "Dark_Side": 5,
+    "Jedi_Powers": 20,
+    "Battle_Skills": 30,
+    "Force_Factor": 3
+  },
+  {
+    "Name": "Super Battle Droid",
+    "Height": 1.91,
+    "Brains": 7,
+    "Dark_Side": 18,
+    "Jedi_Powers": 5,
+    "Battle_Skills": 38,
+    "Force_Factor": 2
+  },
+  {
+    "Name": "Droideka",
+    "Height": 1.83,
+    "Brains": 10,
+    "Dark_Side": 19,
+    "Jedi_Powers": 6,
+    "Battle_Skills": 46,
+    "Force_Factor": 3
+  },
+  {
+    "Name": "Darth Maul",
+    "Height": 1.75,
+    "Brains": 9,
+    "Dark_Side": 24,
+    "Jedi_Powers": 80,
+    "Battle_Skills": 48,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "Dexter Jettster",
+    "Height": 1.88,
+    "Brains": 15,
+    "Dark_Side": 6,
+    "Jedi_Powers": 3,
+    "Battle_Skills": 10,
+    "Force_Factor": 1
+  },
+  {
+    "Name": "Bail Organa",
+    "Height": 1.91,
+    "Brains": 17,
+    "Dark_Side": 1,
+    "Jedi_Powers": 1,
+    "Battle_Skills": 35,
+    "Force_Factor": 2
+  }
+]
